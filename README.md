@@ -7,6 +7,8 @@ Database Schema Design: Tables for products, customers, orders, payments, and mo
 Sample Data: Preloaded data to test and explore the database.
 SQL Queries: Analytical queries to extract business insights.
 Normalization: Ensures data integrity and reduces redundancy.
+
 Technologies Used
-Database System: MySQL / PostgreSQL (choose the one you used)
+Database System: 
+MySQL / PostgreSQL (choose the one you used)
 SQL: For database creation, manipulation, and querying.

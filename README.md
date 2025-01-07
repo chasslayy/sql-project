@@ -8,6 +8,7 @@ aimed at improving stock tracking and
 management for businesses.
 
 The system features:
+
 	•	Real-time inventory updates
 	•	Automated stock level adjustments
 	•	Detailed reporting and product categorization

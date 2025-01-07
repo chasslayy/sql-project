@@ -22,6 +22,7 @@ CREATE TABLE Supplier (
     Email VARCHAR(100),
     Address TEXT
 );
+);
 
 -- Entity 3: Warehouse
 CREATE TABLE Warehouse (
@@ -40,6 +41,7 @@ CREATE TABLE `Order` (
     Status VARCHAR(50),
     Total_Cost DECIMAL(10, 2),
     FOREIGN KEY (Customer_ID) REFERENCES Customer(Customer_ID)
+);
 );
 
 -- Entity 5: Order_Details

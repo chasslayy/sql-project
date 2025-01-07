@@ -7,14 +7,18 @@ an innovative inventory management system
 aimed at improving stock tracking and 
 management for businesses.
 
-The system features:
-
-	•	Real-time inventory updates
-	•	Automated stock level adjustments
-	•	Detailed reporting and product 
-   categorization
-	•	User-friendly interface and database 
-   integration
+The system provides several key features to 
+streamline inventory processes, including 
+real-time updates to track stock levels 
+accurately, automated adjustments to ensure
+inventory remains optimized, and detailed 
+reporting tools to help businesses 
+categorize and monitor their products 
+efficiently. Additionally, JIMMC offers 
+a user-friendly interface, making it easy
+for users to manage their inventory while
+integrating seamlessly with the underlying 
+database for efficient data handling
 
 As part of the project, my role focused on 
 application development, ensuring the 

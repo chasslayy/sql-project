@@ -11,8 +11,10 @@ The system features:
 
 	•	Real-time inventory updates
 	•	Automated stock level adjustments
-	•	Detailed reporting and product categorization
-	•	User-friendly interface and database integration
+	•	Detailed reporting and product 
+   categorization
+	•	User-friendly interface and database 
+   integration
 
 As part of the project, my role focused on 
 application development, ensuring the 

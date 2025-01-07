@@ -1,5 +1,3 @@
-JIMMC Inventory Management System
-
 This project was a collaborative effort for 
 our Database module, where we developed 
 JIMMC (Just-In-Time Management Company), 

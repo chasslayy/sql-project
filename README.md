@@ -1,14 +1,23 @@
-# sql-project
-E-Commerce Database Project
-This project demonstrates the design and implementation of an e-commerce database. The database supports typical e-commerce functionalities such as managing products, customers, orders, and payments. It includes SQL scripts for creating the schema, inserting sample data, and running analytical queries.
+JIMMC Inventory Management System
 
-Features
-Database Schema Design: Tables for products, customers, orders, payments, and more.
-Sample Data: Preloaded data to test and explore the database.
-SQL Queries: Analytical queries to extract business insights.
-Normalization: Ensures data integrity and reduces redundancy.
+This project was a group assignment for our 
+Database class, 
+where we developed JIMMC (Just-In-Time 
+Management Company), an innovative inventory 
+management system aimed at improving stock
+ tracking and management for businesses.
 
-Technologies Used
-Database System: 
-MySQL / PostgreSQL (choose the one you used)
-SQL: For database creation, manipulation, and querying.
+The system features:
+	•	Real-time inventory updates
+	•	Automated stock level adjustments
+	•	Detailed reporting and product categorization
+	•	User-friendly interface and database integration
+
+As part of the project, my role focused 
+on application development, ensuring 
+the functionality and usability of 
+the system through efficient coding 
+and seamless integration with the database. 
+This project showcases our ability to apply 
+database concepts to real-world business 
+solutions.

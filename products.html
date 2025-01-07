@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Products</title>
+</head>
+<body>
+    <h1>Product List</h1>
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Category</th>
+            <th>Stock</th>
+            <th>Price</th>
+        </tr>
+        {% for product in products %}
+        <tr>
+            <td>{{ product['Product_ID'] }}</td>
+            <td>{{ product['Name'] }}</td>
+            <td>{{ product['Category'] }}</td>
+            <td>{{ product['Stock_Quantity'] }}</td>
+            <td>{{ product['Price'] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
